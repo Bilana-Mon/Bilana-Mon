@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilana</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
-- 🔭 I’m currently working on [CasaLike](https://pacific-cliffs-47697.herokuapp.com/#/)
+- 🔭 I’m currently working on [Kapoot](https://kapoot.app)
 
 - 💬 Ask me about **Vue, React, etc.**
 
